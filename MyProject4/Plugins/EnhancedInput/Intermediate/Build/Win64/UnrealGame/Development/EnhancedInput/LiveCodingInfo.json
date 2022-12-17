@@ -1,0 +1,39 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.EnhancedInput.cpp.obj": [
+			"EnhancedInputActionDelegateBinding.cpp.obj",
+			"EnhancedInputComponent.cpp.obj",
+			"EnhancedInputLibrary.cpp.obj",
+			"EnhancedInputModule.cpp.obj",
+			"EnhancedInputSubsystemInterface.cpp.obj",
+			"EnhancedInputSubsystemInterfaceDebug.cpp.obj",
+			"EnhancedInputSubsystems.cpp.obj",
+			"EnhancedPlayerInput.cpp.obj",
+			"InputAction.cpp.obj",
+			"InputDebugKeyDelegateBinding.cpp.obj",
+			"InputMappingContext.cpp.obj",
+			"InputModifiers.cpp.obj",
+			"InputTriggers.cpp.obj",
+			"PlayerMappableInputConfig.cpp.obj"
+		],
+		"Module.EnhancedInput.gen.cpp.obj": [
+			"EnhancedActionKeyMapping.gen.cpp.obj",
+			"EnhancedInput.init.gen.cpp.obj",
+			"EnhancedInputActionDelegateBinding.gen.cpp.obj",
+			"EnhancedInputComponent.gen.cpp.obj",
+			"EnhancedInputLibrary.gen.cpp.obj",
+			"EnhancedInputSubsystemInterface.gen.cpp.obj",
+			"EnhancedInputSubsystems.gen.cpp.obj",
+			"EnhancedPlayerInput.gen.cpp.obj",
+			"InputAction.gen.cpp.obj",
+			"InputActionValue.gen.cpp.obj",
+			"InputDebugKeyDelegateBinding.gen.cpp.obj",
+			"InputMappingContext.gen.cpp.obj",
+			"InputMappingQuery.gen.cpp.obj",
+			"InputModifiers.gen.cpp.obj",
+			"InputTriggers.gen.cpp.obj",
+			"PlayerMappableInputConfig.gen.cpp.obj"
+		]
+	}
+}

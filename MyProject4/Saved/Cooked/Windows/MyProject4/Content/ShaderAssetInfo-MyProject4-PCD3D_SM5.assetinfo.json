@@ -1,0 +1,2316 @@
+{
+	"AssetInfoVersion": 2,
+	"ShaderCodeToAssets": [
+		{
+			"ShaderMapHash": "CD2B01ED531CE4C68A1892DABE2A6131F535DBC8",
+			"Assets": [
+				"/ControlRig/Controls/ControlRigGizmoMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "C0B2A7F335FC62A023E1D59DE2ADBD3C72F13800",
+			"Assets": [
+				"/Engine/EngineDebugMaterials/DebugEditorMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "211087F62EFBB7C1BE4972E660D86BC3FFBFC5C0",
+			"Assets": [
+				"/Engine/EngineMaterials/GizmoMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "EACFA4020082090A51165F6F8F385B9C8ABCC6B2",
+			"Assets": [
+				"/Engine/EngineDebugMaterials/DebugMeshMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "B75365FD1D472D9BDDB570FDE8960C5F56236FF0",
+			"Assets": [
+				"/Engine/EngineMaterials/RemoveSurfaceMaterial",
+				"/Game/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master"
+			]
+		},
+		{
+			"ShaderMapHash": "580BAEC620B37DE8A1FE8FC479D667FE85792074",
+			"Assets": [
+				"/HairStrands/Materials/HairMeshesDefaultMaterial",
+				"/HairStrands/Materials/HairDefaultMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "6118C2EF81328E746F6736EACA89ADF8A3761CC6",
+			"Assets": [
+				"/HairStrands/Materials/HairCardsDefaultMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "84E02F5928102B7C930E738C991C08D607470873",
+			"Assets": [
+				"/Engine/EngineDebugMaterials/M_SimpleUnlitTranslucent"
+			]
+		},
+		{
+			"ShaderMapHash": "DC662FADED5C77B6D4456A8A78B04DCC16D274EC",
+			"Assets": [
+				"/Engine/EditorMaterials/Camera/CineMat"
+			]
+		},
+		{
+			"ShaderMapHash": "64F711963ED34B6AF1EE61A4B93FC8E3225B225E",
+			"Assets": [
+				"/Engine/VREditor/TransformGizmo/Xray",
+				"/Game/Nicole_assets/Unreal_assets/Sphere008Mat",
+				"/Game/Nicole_assets/Unreal_assets/Sphere007Mat",
+				"/Game/Nicole_assets/Unreal_assets/Sphere006Mat",
+				"/Game/Nicole_assets/Unreal_assets/Sphere005Mat",
+				"/Game/Nicole_assets/Unreal_assets/Sphere004Mat",
+				"/Game/Nicole_assets/Unreal_assets/Sphere003Mat",
+				"/Game/Nicole_assets/Unreal_assets/Sphere002Mat",
+				"/Game/Nicole_assets/Unreal_assets/Sphere001Mat",
+				"/Game/Nicole_assets/Unreal_assets/Line023Mat",
+				"/Game/Nicole_assets/Unreal_assets/Line022Mat",
+				"/Game/Nicole_assets/Unreal_assets/Line021Mat",
+				"/Game/Nicole_assets/Unreal_assets/Line020Mat",
+				"/Game/Nicole_assets/Unreal_assets/Line019Mat",
+				"/Game/Nicole_assets/Unreal_assets/Line017Mat",
+				"/Game/Nicole_assets/Unreal_assets/Line016Mat",
+				"/Game/Nicole_assets/Unreal_assets/Line015Mat",
+				"/Game/Nicole_assets/Unreal_assets/Line008Mat",
+				"/Game/Nicole_assets/Unreal_assets/Line007Mat",
+				"/Game/Nicole_assets/Unreal_assets/Line006Mat",
+				"/Game/Nicole_assets/Unreal_assets/Line005Mat",
+				"/Game/Nicole_assets/Unreal_assets/Line002Mat",
+				"/Game/Nicole_assets/Unreal_assets/Line001Mat",
+				"/Game/Nicole_assets/Unreal_assets/Donut004Mat",
+				"/Game/Nicole_assets/Unreal_assets/Donut002Mat",
+				"/Game/Nicole_assets/Unreal_assets/Donut001Mat",
+				"/Game/Nicole_assets/Unreal_assets/Cylinder022Mat",
+				"/Game/Nicole_assets/Unreal_assets/Cylinder021Mat",
+				"/Game/Nicole_assets/Unreal_assets/Cylinder020Mat",
+				"/Game/Nicole_assets/Unreal_assets/Cylinder019Mat",
+				"/Game/Nicole_assets/Unreal_assets/Cylinder018Mat",
+				"/Game/Nicole_assets/Unreal_assets/Cylinder017Mat",
+				"/Game/Nicole_assets/Unreal_assets/Cylinder016Mat",
+				"/Game/Nicole_assets/Unreal_assets/Cylinder015Mat",
+				"/Game/Nicole_assets/Unreal_assets/Cylinder014Mat",
+				"/Game/Nicole_assets/Unreal_assets/Cylinder013Mat",
+				"/Game/Nicole_assets/Unreal_assets/Cylinder012Mat",
+				"/Game/Nicole_assets/Unreal_assets/Cylinder011Mat",
+				"/Game/Nicole_assets/Unreal_assets/Cylinder008Mat",
+				"/Game/Nicole_assets/Unreal_assets/Cylinder007Mat",
+				"/Game/Nicole_assets/Unreal_assets/Cylinder006Mat",
+				"/Game/Nicole_assets/Unreal_assets/Cylinder005Mat",
+				"/Game/Nicole_assets/Unreal_assets/Cylinder004Mat",
+				"/Game/Nicole_assets/Unreal_assets/Cylinder003Mat",
+				"/Game/Nicole_assets/Unreal_assets/Cylinder002Mat",
+				"/Game/Nicole_assets/Unreal_assets/Cylinder001Mat",
+				"/Game/Nicole_assets/Unreal_assets/Circle001Mat",
+				"/Game/Nicole_assets/Unreal_assets/ChamferBox015Mat",
+				"/Game/Nicole_assets/Unreal_assets/ChamferBox014Mat",
+				"/Game/Nicole_assets/Unreal_assets/ChamferBox013Mat",
+				"/Game/Nicole_assets/Unreal_assets/ChamferBox012Mat",
+				"/Game/Nicole_assets/Unreal_assets/ChamferBox011Mat",
+				"/Game/Nicole_assets/Unreal_assets/ChamferBox010Mat",
+				"/Game/Nicole_assets/Unreal_assets/ChamferBox009Mat",
+				"/Game/Nicole_assets/Unreal_assets/ChamferBox008Mat",
+				"/Game/Nicole_assets/Unreal_assets/ChamferBox007Mat",
+				"/Game/Nicole_assets/Unreal_assets/ChamferBox006Mat",
+				"/Game/Nicole_assets/Unreal_assets/ChamferBox005Mat",
+				"/Game/Nicole_assets/Unreal_assets/ChamferBox004Mat",
+				"/Game/Nicole_assets/Unreal_assets/ChamferBox003Mat",
+				"/Game/Nicole_assets/Unreal_assets/ChamferBox002Mat",
+				"/Game/Nicole_assets/Unreal_assets/ChamferBox001Mat",
+				"/Game/Nicole_assets/Unreal_assets/Box050Mat",
+				"/Game/Nicole_assets/Unreal_assets/Box049Mat",
+				"/Game/Nicole_assets/Unreal_assets/Box048Mat",
+				"/Game/Nicole_assets/Unreal_assets/Box047Mat",
+				"/Game/Nicole_assets/Unreal_assets/Box046Mat",
+				"/Game/Nicole_assets/Unreal_assets/Box045Mat",
+				"/Game/Nicole_assets/Unreal_assets/Box044Mat",
+				"/Game/Nicole_assets/Unreal_assets/Box043Mat",
+				"/Game/Nicole_assets/Unreal_assets/Box042Mat",
+				"/Game/Nicole_assets/Unreal_assets/Box041Mat",
+				"/Game/Nicole_assets/Unreal_assets/Box040Mat",
+				"/Game/Nicole_assets/Unreal_assets/Box031Mat",
+				"/Game/Nicole_assets/Unreal_assets/Box030Mat",
+				"/Game/Nicole_assets/Unreal_assets/Box029Mat",
+				"/Game/Nicole_assets/Unreal_assets/Box028Mat",
+				"/Game/Nicole_assets/Unreal_assets/Box027Mat",
+				"/Game/Nicole_assets/Unreal_assets/Box026Mat",
+				"/Game/Nicole_assets/Unreal_assets/Box025Mat",
+				"/Game/Nicole_assets/Unreal_assets/Box024Mat",
+				"/Game/Nicole_assets/Unreal_assets/Box023Mat",
+				"/Game/Nicole_assets/Unreal_assets/Box022Mat",
+				"/Game/Nicole_assets/Unreal_assets/Box021Mat",
+				"/Game/Nicole_assets/Unreal_assets/Box020Mat",
+				"/Game/Nicole_assets/Unreal_assets/Box019Mat",
+				"/Game/Nicole_assets/Unreal_assets/Box018Mat",
+				"/Game/Nicole_assets/Unreal_assets/Box017Mat",
+				"/Game/Nicole_assets/Unreal_assets/Box016Mat",
+				"/Game/Nicole_assets/Unreal_assets/Box015Mat",
+				"/Game/Nicole_assets/Unreal_assets/Box014Mat",
+				"/Game/Nicole_assets/Unreal_assets/Box013Mat",
+				"/Game/Nicole_assets/Unreal_assets/Box012Mat",
+				"/Game/Nicole_assets/Unreal_assets/Box011Mat",
+				"/Game/Nicole_assets/Unreal_assets/Box010Mat",
+				"/Game/Nicole_assets/Unreal_assets/Box009Mat",
+				"/Game/Nicole_assets/Unreal_assets/Box008Mat",
+				"/Game/Nicole_assets/Unreal_assets/Box007Mat",
+				"/Game/Nicole_assets/Unreal_assets/Box006Mat",
+				"/Game/Nicole_assets/Unreal_assets/Box005Mat",
+				"/Game/Nicole_assets/Unreal_assets/Box004Mat",
+				"/Game/Nicole_assets/Unreal_assets/Box003Mat",
+				"/Game/Nicole_assets/Unreal_assets/Box002Mat",
+				"/Game/Nicole_assets/Unreal_assets/Box001Mat",
+				"/Game/Button/Material"
+			]
+		},
+		{
+			"ShaderMapHash": "6BC4F45367FAC73ACCAFA8CD9667AB56C2F23608",
+			"Assets": [
+				"/Engine/VREditor/TransformGizmo/Main"
+			]
+		},
+		{
+			"ShaderMapHash": "C04C5B9338BB5E7A5A56E8EB14F31D97127A7D8B",
+			"Assets": [
+				"/Engine/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "EC0B9E24AAAB5DF9FA2D660C0AA56DC12CB5C37E",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultLightFunctionMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "FCE2CED4B4383CCA20898D9823FDBB412D840AA6",
+			"Assets": [
+				"/Game/StarterContent/Props/Materials/M_MaterialSphere_Plain"
+			]
+		},
+		{
+			"ShaderMapHash": "EBDE1AD57834C08EC59C83E8590AB963F218489F",
+			"Assets": [
+				"/Game/StarterContent/Props/Materials/M_MaterialSphere"
+			]
+		},
+		{
+			"ShaderMapHash": "F7B3830A090DA8C3432B275D1EAAD409B50E6D74",
+			"Assets": [
+				"/Game/StarterContent/Particles/Materials/m_flare_01"
+			]
+		},
+		{
+			"ShaderMapHash": "A00B748BDA40B3F60FEFF59F05E123A9A20C741D",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Glass",
+				"/Game/materials/Window"
+			]
+		},
+		{
+			"ShaderMapHash": "11AB4D18B6E4F96C0476760488FEDC57F8D9E3F7",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Basic_Wall"
+			]
+		},
+		{
+			"ShaderMapHash": "4ACDBD0F1D60ABCF41278F6774070BF706DE94D2",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Basic_Floor"
+			]
+		},
+		{
+			"ShaderMapHash": "025CA632F741E0A60C5152EFB0BEB2D30B23662D",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_AssetPlatform"
+			]
+		},
+		{
+			"ShaderMapHash": "D4E626D71DCA8D5A7D6B957A59DC97A950CA1A5F",
+			"Assets": [
+				"/Game/StarterContent/Blueprints/Assets/M_LightStage_Arrows"
+			]
+		},
+		{
+			"ShaderMapHash": "3A5C67BB1D82F0A169D07CDAAD327D1E35483814",
+			"Assets": [
+				"/Game/Nicole_assets/Unreal_assets/Material",
+				"/Game/Nicole_assets/Unreal_assets/Line018Mat"
+			]
+		},
+		{
+			"ShaderMapHash": "919E44ADF3F16B284108321FB28CA9CF675C4039",
+			"Assets": [
+				"/Game/ParagonTwinblast/FX/Materials/Flares/M_Tri_Test"
+			]
+		},
+		{
+			"ShaderMapHash": "A0EF0F4FE993E23DAC8276B46DD2C7AEA8257111",
+			"Assets": [
+				"/Game/ParagonTwinblast/Characters/Maps/BackGroundAssets/M_AssetPlatform"
+			]
+		},
+		{
+			"ShaderMapHash": "F9A80F2FE253BE303F61180C1FC5B79F89FC2EF3",
+			"Assets": [
+				"/Game/materials/M_PP_outline"
+			]
+		},
+		{
+			"ShaderMapHash": "A42919E1F28DDCFBE2214F733B3226D32608AA3A",
+			"Assets": [
+				"/Game/materials/M_ParticalBase"
+			]
+		},
+		{
+			"ShaderMapHash": "D53261151316570137111B7EE70B336D9A472E3A",
+			"Assets": [
+				"/Game/materials/glass"
+			]
+		},
+		{
+			"ShaderMapHash": "EA73444F7DE4D86A157B9C086043AA7D1431F570",
+			"Assets": [
+				"/Game/Female_Mannequin/Materials/Female_Mannequin/Hair/M_Mannequin_ShadowTrim"
+			]
+		},
+		{
+			"ShaderMapHash": "CDE41D36E93BE057FDE05C77301A9341031AA94E",
+			"Assets": [
+				"/Game/Female_Mannequin/Materials/Environment/M_Flatlit_Floor_master"
+			]
+		},
+		{
+			"ShaderMapHash": "D2CD0588FE97A16A9C0C644CE998896F8F5C8BEF",
+			"Assets": [
+				"/Game/Female_Mannequin/Materials/Environment/M_DemoWall_master"
+			]
+		},
+		{
+			"ShaderMapHash": "1871D768C3A3AC6E1C4CE64EFAB59791A47FC047",
+			"Assets": [
+				"/Game/Female_Mannequin/Materials/Environment/M_ClearCoat"
+			]
+		},
+		{
+			"ShaderMapHash": "E1EB2A0676C4FB3FA8F7134C181F3E915B844673",
+			"Assets": [
+				"/Game/Female_Mannequin/Materials/Environment/M_ChromeBall",
+				"/Engine/EditorMeshes/ColorCalibrator/M_ChromeBall"
+			]
+		},
+		{
+			"ShaderMapHash": "4CD45FC748275F3B2DB79CA997A3463959120628",
+			"Assets": [
+				"/Game/DestructionSystem/Materials/M_Plastic"
+			]
+		},
+		{
+			"ShaderMapHash": "04E4B235584B33808511A7038FF599688C9B0083",
+			"Assets": [
+				"/Game/DestructionSystem/Materials/M_Metal"
+			]
+		},
+		{
+			"ShaderMapHash": "2032C9BB549C3C693F8D911D36B100ECE03E0C9C",
+			"Assets": [
+				"/Game/DestructionSystem/Materials/M_Glass"
+			]
+		},
+		{
+			"ShaderMapHash": "DAA4B6470203462DF9C9FEAFD824E6B121FB3B87",
+			"Assets": [
+				"/Game/DestructionSystem/Materials/M_Emissive"
+			]
+		},
+		{
+			"ShaderMapHash": "DDFDED41BEC619FC7E5912E1D2B583E3DD534B15",
+			"Assets": [
+				"/Game/Character/sleeves",
+				"/Game/Character/gloves"
+			]
+		},
+		{
+			"ShaderMapHash": "14454FD8BB2A4B33FF05E398A6E22E6E796EF007",
+			"Assets": [
+				"/Engine/BasicShapes/BasicShapeMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "C52E5226D3CFA1CAC3D87FAC8D50F38D363FAB58",
+			"Assets": [
+				"/Niagara/DefaultAssets/DefaultSpriteMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "F6FEE972B3FA082540A7097D6BEFF54E13E06434",
+			"Assets": [
+				"/Engine/EditorMeshes/ColorCalibrator/M_ClearCoat"
+			]
+		},
+		{
+			"ShaderMapHash": "F914811D70EAFB1C0CA6E3B7934F22B6C603A1DF",
+			"Assets": [
+				"/Engine/EditorMeshes/ColorCalibrator/M_ClearCoatBlack"
+			]
+		},
+		{
+			"ShaderMapHash": "C834772CAB04C51B2C46A5C3F21BA074FB512D4D",
+			"Assets": [
+				"/Engine/EditorMeshes/ColorCalibrator/M_GreyBall"
+			]
+		},
+		{
+			"ShaderMapHash": "A583EAD8CCEE3C8094B2B46535089EE2DE8CE545",
+			"Assets": [
+				"/Engine/TemplateResources/M_Template_Master"
+			]
+		},
+		{
+			"ShaderMapHash": "9CCBF56CDD8E0AD8CC31A8435C88D743B98E9ED1",
+			"Assets": [
+				"/Engine/EngineMaterials/FlattenMaterial_WS_Normal_VT"
+			]
+		},
+		{
+			"ShaderMapHash": "51C7B05DD3F62879F54D0D1972E720772888456B",
+			"Assets": [
+				"/Engine/EngineMaterials/FlattenMaterial_VT",
+				"/Engine/EngineMaterials/FlattenMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "E1F40DFD96D8AE3D0F8486C03725DDC2EEC53AD0",
+			"Assets": [
+				"/Engine/EngineMaterials/M_InvalidLightmapSettings"
+			]
+		},
+		{
+			"ShaderMapHash": "A6AA03CB707A2A35E6B21885A08ED26D847E4CE1",
+			"Assets": [
+				"/Engine/EngineMaterials/EmissiveMeshMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "58A68BB5B77A48E89954C130CB804AAF701FD854",
+			"Assets": [
+				"/Engine/EngineDebugMaterials/M_VolumeRenderSphereTracePP"
+			]
+		},
+		{
+			"ShaderMapHash": "F9263927B9A447444CEB25F0683B99FA6EDE8534",
+			"Assets": [
+				"/Engine/EngineMaterials/PhAT_JointLimitMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "3B599E1E84C6BED8F66AF5A2D1125FB845FE4CAB",
+			"Assets": [
+				"/ControlRig/M_Manip"
+			]
+		},
+		{
+			"ShaderMapHash": "CEB6981B8784CDFA2490593B8D2E0D49BD6FF41E",
+			"Assets": [
+				"/Paper2D/DefaultSpriteMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "ECC697C48BA966F0825110EFF887124C8B715EF3",
+			"Assets": [
+				"/Engine/VREditor/TransformGizmo/TransformGizmoMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "6B155BF25ABE1B5D74C1CCF6398D60B69E8E7C0A",
+			"Assets": [
+				"/Engine/EditorMaterials/WorldPartition/WorldPartitionSpatialHashGridPreviewMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "7E49B2C7E4F45A769712E5F5D597423E50A31090",
+			"Assets": [
+				"/HairStrands/Materials/HairDebugMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "3F7895F3B3EC85C81839B53617DEF4F1A94DA828",
+			"Assets": [
+				"/Engine/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud"
+			]
+		},
+		{
+			"ShaderMapHash": "8C73641D32B7DA2DEF6B40664D0A99BA9A0CD673",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultPostProcessMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "1A91267099E00CB6E114581FBC960569A39E5CE2",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultDeferredDecalMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "6CE9731DBD31520A0F28233FD6C531B40ED2E593",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "25505245776F29D612F7A2A47DF00B8F08CF6DFD",
+			"Assets": [
+				"/Engine/EngineMaterials/WorldGridMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "8ACAFDF4D8347920962FFA6E6E976F915609C626",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultTextMaterialOpaque"
+			]
+		},
+		{
+			"ShaderMapHash": "B43D983CD3BDA59466984205703D5D9E6F5FE1F6",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough",
+				"/Engine/EngineMaterials/Widget3DPassThrough_Translucent_OneSided"
+			]
+		},
+		{
+			"ShaderMapHash": "C2E563CA72CD446FE90EEB20A5E098A2B5C3CDC8",
+			"Assets": [
+				"/Game/StarterContent/Particles/Materials/M_Heat_Distortion"
+			]
+		},
+		{
+			"ShaderMapHash": "23C0634056BA763099D33CA946813D0DC0E1C720",
+			"Assets": [
+				"/Game/StarterContent/Props/Materials/M_TableRound"
+			]
+		},
+		{
+			"ShaderMapHash": "AE522F7BF62721652D513F04CD5AD98FE0E65800",
+			"Assets": [
+				"/Game/StarterContent/Props/Materials/M_StatueGlass"
+			]
+		},
+		{
+			"ShaderMapHash": "A8EE93289F5303899CFC370F090082786C8DECD9",
+			"Assets": [
+				"/Game/StarterContent/Props/Materials/M_Statue"
+			]
+		},
+		{
+			"ShaderMapHash": "91964FE23D33910AE7B338C225B2294783B0500A",
+			"Assets": [
+				"/Game/StarterContent/Particles/Materials/M_Spark"
+			]
+		},
+		{
+			"ShaderMapHash": "81FCE478ACAF1C47903CCEE90DA8B2502F837953",
+			"Assets": [
+				"/Game/StarterContent/Particles/Materials/M_smoke_subUV"
+			]
+		},
+		{
+			"ShaderMapHash": "EA545E534E61838B0334C9B51E1198AD8A40AFD5",
+			"Assets": [
+				"/Game/StarterContent/Props/Materials/M_Shelf"
+			]
+		},
+		{
+			"ShaderMapHash": "802899A30A5A1215C355E73544EC9FA189117DB5",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Wood_Floor_Walnut_Polished"
+			]
+		},
+		{
+			"ShaderMapHash": "243BD626314AB5DB3B08E098E668FC1047D9154E",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Water_Lake"
+			]
+		},
+		{
+			"ShaderMapHash": "0AE098AF113B2C4480A6F46A128FB83680C11985",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Rock_Marble_Polished"
+			]
+		},
+		{
+			"ShaderMapHash": "7A6305F303291C00EA039DFE6EBD7F2444FB1872",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Wood_Walnut"
+			]
+		},
+		{
+			"ShaderMapHash": "BBBB19CDB0F23FA73B5DB8E3FDBB5394432F529C",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Wood_Pine"
+			]
+		},
+		{
+			"ShaderMapHash": "353F8343C75365B1AEA9B3DEB07474D9F9A5C25C",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Wood_Oak"
+			]
+		},
+		{
+			"ShaderMapHash": "1055930AF871AB20050BB4146B694052081A6E85",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Tech_Panel"
+			]
+		},
+		{
+			"ShaderMapHash": "B1B9EF62109AD5A11BE1AD305FAFB1180483ED47",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Tech_Hex_Tile_Pulse"
+			]
+		},
+		{
+			"ShaderMapHash": "70DA5F414F773C4F40D7BEA8E91E9429B859C07C",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Rock_Slate"
+			]
+		},
+		{
+			"ShaderMapHash": "B786E273101DF9209C26D79BEBB74C41CAD0DEBF",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Rock_Sandstone"
+			]
+		},
+		{
+			"ShaderMapHash": "AE4D46015EC93476EFF8F655B1858C4B3BE35160",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Rock_Basalt"
+			]
+		},
+		{
+			"ShaderMapHash": "C3A8E9D397EA937753F410F78003D826A72A4EB6",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Metal_Steel"
+			]
+		},
+		{
+			"ShaderMapHash": "F80EE21F25BA81C2E7113B21026FC79AE639526A",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Metal_Gold"
+			]
+		},
+		{
+			"ShaderMapHash": "811D70A1232E69E894834E5F9D474A469570D90C",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Metal_Copper"
+			]
+		},
+		{
+			"ShaderMapHash": "D4A5FB138BDDEEA896E9E1134B35624A530096C1",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Metal_Chrome"
+			]
+		},
+		{
+			"ShaderMapHash": "E484C48936BBFB78E220F48F9B9AA792B59E338A",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Metal_Burnished_Steel"
+			]
+		},
+		{
+			"ShaderMapHash": "BA26633295EC8420D2A1680C2063BC7ED2F523EB",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Metal_Brushed_Nickel"
+			]
+		},
+		{
+			"ShaderMapHash": "F41D53DE474A4D6ACF10DD8D111C689D3C72E253",
+			"Assets": [
+				"/Game/StarterContent/Props/Materials/M_Lamp"
+			]
+		},
+		{
+			"ShaderMapHash": "466DBCC6F819D7BFC7A53701C3DE49C087D41376",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Ground_Moss"
+			]
+		},
+		{
+			"ShaderMapHash": "7C4082D79A706802414864E913AD5C55DE6CF8F3",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Ground_Gravel"
+			]
+		},
+		{
+			"ShaderMapHash": "3FD458DB1AC61ABBB3596065D3087BC15FCEE681",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Ground_Grass"
+			]
+		},
+		{
+			"ShaderMapHash": "516C779B7BBA919E4B994C8BA645CAB63485E8F8",
+			"Assets": [
+				"/Game/StarterContent/Props/Materials/M_Frame"
+			]
+		},
+		{
+			"ShaderMapHash": "0068F996E288CF91C3D2ABEC00A92BE798E149C0",
+			"Assets": [
+				"/Game/StarterContent/Particles/Materials/M_Fire_SubUV"
+			]
+		},
+		{
+			"ShaderMapHash": "15963AC19863B27E8A700E95BABE5D522133ABAF",
+			"Assets": [
+				"/Game/StarterContent/Particles/Materials/M_explosion_subUV"
+			]
+		},
+		{
+			"ShaderMapHash": "7D30811094FB9072F5B2486495B571EC72BC5F3F",
+			"Assets": [
+				"/Game/StarterContent/Particles/Materials/M_Dust_Particle"
+			]
+		},
+		{
+			"ShaderMapHash": "047E2E1E49B7D723E1BFF6E8D0DF4D3F2A304875",
+			"Assets": [
+				"/Game/StarterContent/Props/Materials/M_Door"
+			]
+		},
+		{
+			"ShaderMapHash": "3F676132EE83A2AF2CD88A32B5FF8737C5C06F73",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Concrete_Tiles"
+			]
+		},
+		{
+			"ShaderMapHash": "9C3608F218BDCCB265E21E05933790946232A947",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Concrete_Poured"
+			]
+		},
+		{
+			"ShaderMapHash": "FF297D1DC6BAC7F9F61088D93BFCD7243DD50335",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Concrete_Panels"
+			]
+		},
+		{
+			"ShaderMapHash": "327EC1E8CD8BAB3E640FB4F937E72A83D8810CB7",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Concrete_Grime"
+			]
+		},
+		{
+			"ShaderMapHash": "8B080840B894CBAC85E2613C90309BBF312A3F93",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_CobbleStone_Smooth"
+			]
+		},
+		{
+			"ShaderMapHash": "78EC29A80D57050195A94E14696B7C0B925D1EC6",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_CobbleStone_Rough"
+			]
+		},
+		{
+			"ShaderMapHash": "589D8FB0FD5B3C0319091EC879BE5A4E1532F833",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_CobbleStone_Pebble"
+			]
+		},
+		{
+			"ShaderMapHash": "2973C24D954CD84E12D518E6BE4E77626CD70901",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Tech_Checker_Dot"
+			]
+		},
+		{
+			"ShaderMapHash": "F954630918C46022A3FC3A9A285EB8CBB032DFED",
+			"Assets": [
+				"/Game/StarterContent/Props/Materials/M_Chair"
+			]
+		},
+		{
+			"ShaderMapHash": "74B9FC4BCBA2593D728D21E6C3A75ADD6DC91A93",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Ceramic_Tile_Checker"
+			]
+		},
+		{
+			"ShaderMapHash": "F16B6B07519C2EB711BD89FC8A0307A3AFACBCBF",
+			"Assets": [
+				"/Game/StarterContent/Props/Materials/M_Bush"
+			]
+		},
+		{
+			"ShaderMapHash": "50873F6277E501954377AA7E857DA3874251110E",
+			"Assets": [
+				"/Game/StarterContent/Particles/Materials/M_Burst"
+			]
+		},
+		{
+			"ShaderMapHash": "0CD382EA936B00C3FE06DCC8F6BD98B56DE6518D",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Brick_Hewn_Stone"
+			]
+		},
+		{
+			"ShaderMapHash": "EB018F0D07E70CCC6DB507FF4E564B8535858387",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Brick_Cut_Stone"
+			]
+		},
+		{
+			"ShaderMapHash": "EF69839CF834BA80D43294F8A199C035835EAF46",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Brick_Clay_Old"
+			]
+		},
+		{
+			"ShaderMapHash": "91F3223290D8F6329AA9F628705F450785CC8A70",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Brick_Clay_New"
+			]
+		},
+		{
+			"ShaderMapHash": "CFE5E5CEFA9C52655B847484E1203266500866DA",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Brick_Clay_Beveled"
+			]
+		},
+		{
+			"ShaderMapHash": "09626BD2A2C6B0839D61881D90D6AC2CA8EBEF40",
+			"Assets": [
+				"/Game/ParagonTwinblast/FX/Materials/Water/M_WaterImpact_Strand_Masked"
+			]
+		},
+		{
+			"ShaderMapHash": "C5FD6ECDE8E739270011569FEA822663C0F39F45",
+			"Assets": [
+				"/Game/ParagonTwinblast/FX/Materials/Water/M_Footfall_Refraction"
+			]
+		},
+		{
+			"ShaderMapHash": "4548A8E8AC81014BE947C71A99DC838A175FA3B7",
+			"Assets": [
+				"/Game/ParagonTwinblast/FX/Materials/Hero_Specific/M_Ult_Reticule_Activate"
+			]
+		},
+		{
+			"ShaderMapHash": "7B93270E01A54C8E63FAFE6A1EAF395256E71AD7",
+			"Assets": [
+				"/Game/ParagonTwinblast/FX/Materials/Sparks/M_Hotdog_Spark_VLerp_Rand_Master"
+			]
+		},
+		{
+			"ShaderMapHash": "91A236FA79345B2C46A6C82B60A19C06220C4BBA",
+			"Assets": [
+				"/Game/ParagonTwinblast/FX/Materials/Smoke/M_DustKickup_Simple"
+			]
+		},
+		{
+			"ShaderMapHash": "895E9FAEF29B95B8B70763467ADA03AE2F1FA8D0",
+			"Assets": [
+				"/Game/ParagonTwinblast/FX/Materials/Debris/M_TransDebris_NoEmissive_Simple"
+			]
+		},
+		{
+			"ShaderMapHash": "D60D3149691492CDB334EC69F53026FE8DEF6B0C",
+			"Assets": [
+				"/Game/ParagonTwinblast/FX/Materials/Debris/M_Invis_Debris_ParticleColor"
+			]
+		},
+		{
+			"ShaderMapHash": "2ACDE66B65151E16C26219D6799D9422782A82E9",
+			"Assets": [
+				"/Game/ParagonTwinblast/FX/Materials/Sparks/M_Spark_VelocityLerp"
+			]
+		},
+		{
+			"ShaderMapHash": "F28724E2576E09AE9C51C62ED8978349B9A48DEB",
+			"Assets": [
+				"/Game/ParagonTwinblast/FX/Materials/Sparks/M_Pellets_InvisMoving"
+			]
+		},
+		{
+			"ShaderMapHash": "09F5A4E4E3DE0F1B797E0525A151085D2C96FB54",
+			"Assets": [
+				"/Game/ParagonTwinblast/FX/Materials/Smoke/M_SoftSmoke_Emissive_FakeLit"
+			]
+		},
+		{
+			"ShaderMapHash": "D9E9D0F0D1A416E45DA44DA54A8A20593E81D02C",
+			"Assets": [
+				"/Game/ParagonTwinblast/FX/Materials/Smoke/M_Smoke_Additive_Master"
+			]
+		},
+		{
+			"ShaderMapHash": "C2FB56584DD9CAAEC0768046752A69A231748B9B",
+			"Assets": [
+				"/Game/ParagonTwinblast/FX/Materials/Smoke/M_LingerSmoke_MasterAdditiveWarp_Simple"
+			]
+		},
+		{
+			"ShaderMapHash": "B12B02AAA969516CCBEEB8E76FA922C5CB2ED0A5",
+			"Assets": [
+				"/Game/ParagonTwinblast/FX/Materials/Smoke/M_LingerSmoke_MasterAdditiveWarp_EmissiveParticleColor"
+			]
+		},
+		{
+			"ShaderMapHash": "0C3024DF841AF420552A50FDA9B24F30EF9ED10C",
+			"Assets": [
+				"/Game/ParagonTwinblast/FX/Materials/Flares/M_Lensflare_Jet_Flicker"
+			]
+		},
+		{
+			"ShaderMapHash": "C6BD8881D12F0D8368CA10F2F0399EFE3D62A986",
+			"Assets": [
+				"/Game/ParagonTwinblast/FX/Materials/Dust/M_Dust_Spears"
+			]
+		},
+		{
+			"ShaderMapHash": "C6609A30D52CB009FE6E821E8634956D637B4A05",
+			"Assets": [
+				"/Game/ParagonTwinblast/FX/Materials/Smoke/M_Minion_Smoke"
+			]
+		},
+		{
+			"ShaderMapHash": "4E24ECD106A78DABE922CE1200A32C6FB541C398",
+			"Assets": [
+				"/Game/ParagonTwinblast/FX/Materials/Smoke/DirectionalLit/M_Directional_Lit_Depth_Smoke_SubUV_8X8"
+			]
+		},
+		{
+			"ShaderMapHash": "1F3A31B536797B31530BEEBC466FD05500599C64",
+			"Assets": [
+				"/Game/ParagonTwinblast/FX/Materials/Smoke/M_VortexGrenade_SmokeSpears"
+			]
+		},
+		{
+			"ShaderMapHash": "6AA4B11A459BC48F429B26C4F8151A30FEAF8601",
+			"Assets": [
+				"/Game/ParagonTwinblast/FX/Materials/Smoke/M_Knockback_Dust"
+			]
+		},
+		{
+			"ShaderMapHash": "2AABADF2B2E33FE38913FF4BEB302777E199A054",
+			"Assets": [
+				"/Game/ParagonTwinblast/FX/Materials/Smoke/M_Explosion_Smoke_Spears"
+			]
+		},
+		{
+			"ShaderMapHash": "AFF873CE4962A4BCCD779F9770EEB07148DBF502",
+			"Assets": [
+				"/Game/ParagonTwinblast/FX/Materials/Smoke/M_CheapTwinblastImpactDust"
+			]
+		},
+		{
+			"ShaderMapHash": "C86D5639508E26FF321353162C5D9C7D43ACEF9B",
+			"Assets": [
+				"/Game/ParagonTwinblast/FX/Materials/Shockwaves/M_Booster_Refraction"
+			]
+		},
+		{
+			"ShaderMapHash": "91347EB82EAAD6A4AEFA58556F937ECBCAD42C19",
+			"Assets": [
+				"/Game/ParagonTwinblast/FX/Materials/Flares/m_flare_01"
+			]
+		},
+		{
+			"ShaderMapHash": "7361C651E95957B920A944EB80DE2B1985A92A67",
+			"Assets": [
+				"/Game/ParagonTwinblast/FX/Materials/Flares/M_AddGlow"
+			]
+		},
+		{
+			"ShaderMapHash": "A4FC5CEFDD3543D8DC7A502EA1ACEB98F3E687F5",
+			"Assets": [
+				"/Game/ParagonTwinblast/FX/Materials/Fire/M_Embers"
+			]
+		},
+		{
+			"ShaderMapHash": "8AB579DC0E60EA41C670E11D4D2A14EF67C57A06",
+			"Assets": [
+				"/Game/ParagonTwinblast/FX/Materials/Debris/M_Debris"
+			]
+		},
+		{
+			"ShaderMapHash": "CBE10157827F4E055584332D5726592F019F6C1D",
+			"Assets": [
+				"/Game/ParagonTwinblast/Characters/Maps/BackGroundAssets/HDRSky",
+				"/Game/Female_Mannequin/Materials/Environment/M_HDRSky"
+			]
+		},
+		{
+			"ShaderMapHash": "2E21071EF9CF6BEE19AAF2A33FDD5C6201381201",
+			"Assets": [
+				"/Game/Female_Mannequin/Materials/Female_Mannequin/Body_and_Head/M_FemaleMannequin_joints"
+			]
+		},
+		{
+			"ShaderMapHash": "8DA5F9D371CAB331E17FABFEC03BE2C2EFCFDAD2",
+			"Assets": [
+				"/Game/Female_Mannequin/Materials/Female_Mannequin/Body_and_Head/M_FemaleMannequin_body_Master"
+			]
+		},
+		{
+			"ShaderMapHash": "9AA995EFF6DCCAF51F64D43046ACE89DCC3E375B",
+			"Assets": [
+				"/Game/Female_Mannequin/Materials/Female_Mannequin/Body_and_Head/M_FemaleMannequin_Body_Glow_master"
+			]
+		},
+		{
+			"ShaderMapHash": "43B1D13940647B071BACEC46B23C2D3A5057C16E",
+			"Assets": [
+				"/Game/Female_Mannequin/Materials/Female_Mannequin/Body_and_Head/M_FemaleMannequin_Eyes_master"
+			]
+		},
+		{
+			"ShaderMapHash": "80E6BDDD8DC8C72C0F62ECB0E6E011BB8757514F",
+			"Assets": [
+				"/Game/Female_Mannequin/Materials/Environment/M_Grid_Floor_master"
+			]
+		},
+		{
+			"ShaderMapHash": "55BE881F11A7C6B8ECFA368CAB1A82901F579753",
+			"Assets": [
+				"/Game/Female_Mannequin/Materials/Environment/M_Color_Checker"
+			]
+		},
+		{
+			"ShaderMapHash": "11BFF2DB5AA6746E88F7B1825D8CB9F6FDABF296",
+			"Assets": [
+				"/Game/Female_Mannequin/Materials/Female_Mannequin/Body_and_Head/M_FemaleMannequin_Human_Flesh_Master"
+			]
+		},
+		{
+			"ShaderMapHash": "5F4917FB89F9C8D4560D195C911A965706CA2968",
+			"Assets": [
+				"/Game/Female_Mannequin/Materials/BodyForms/M_Human_Form_master"
+			]
+		},
+		{
+			"ShaderMapHash": "CAF0C7004674EAE30578E9911A45125489C362D8",
+			"Assets": [
+				"/Game/DestructionSystem/Materials/FX/M_SmokeTrail"
+			]
+		},
+		{
+			"ShaderMapHash": "A193F55A03CEBACEF1646A5D169158154331CDD5",
+			"Assets": [
+				"/Game/DestructionSystem/Materials/FX/M_ParticleMaskAnimated"
+			]
+		},
+		{
+			"ShaderMapHash": "B308FAF6A199B2E6F70122E7313D84F58A92FB03",
+			"Assets": [
+				"/Game/DestructionSystem/Materials/FX/M_ParticleSimple"
+			]
+		},
+		{
+			"ShaderMapHash": "7A9164B2B028B3D9BBAE901378EE2F1166287811",
+			"Assets": [
+				"/Game/DestructionSystem/Materials/M_MaskedMaster"
+			]
+		},
+		{
+			"ShaderMapHash": "E80E1E19BF1EF7A9CA0605C6AC34A763B4030E5C",
+			"Assets": [
+				"/Game/DestructionSystem/Materials/MI_GreenGlass",
+				"/Game/DestructionSystem/Materials/MI_GreenBottle",
+				"/Game/DestructionSystem/Materials/MI_GlassGreen"
+			]
+		},
+		{
+			"ShaderMapHash": "6F631423187169535C6F548A51AD3772B31C6562",
+			"Assets": [
+				"/Game/DestructionSystem/Materials/MI_Bulb_off"
+			]
+		},
+		{
+			"ShaderMapHash": "AE2797177D6058DDBD400B65B1080A79A6CE6079",
+			"Assets": [
+				"/Game/Button/Material_Height_Mat",
+				"/Game/Button/Material_Base_color_Mat"
+			]
+		},
+		{
+			"ShaderMapHash": "A2DEF3A2044F2DFEC45682AF08237914543A7294",
+			"Assets": [
+				"/Game/AI/Zombie/Ch07_hair",
+				"/Game/AI/erika_character/eyelash_MAT"
+			]
+		},
+		{
+			"ShaderMapHash": "FC03451B10AB617696782C473ACBC4C996D93833",
+			"Assets": [
+				"/Game/AI/Zombie/Ch07_body"
+			]
+		},
+		{
+			"ShaderMapHash": "A39D3A3069BF5FAB6AED658345B1DD812625E285",
+			"Assets": [
+				"/Game/AI/erika_character/Body_MAT",
+				"/Game/AI/erika_character/EyeSpec_MAT",
+				"/Game/AI/erika_character/Akai_MAT"
+			]
+		},
+		{
+			"ShaderMapHash": "B150AA951472CA41983BB3A161BDDC7C261898CA",
+			"Assets": [
+				"/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale"
+			]
+		},
+		{
+			"ShaderMapHash": "CC55EA1DC806B30DD6AE1628892C72F7943F02A8",
+			"Assets": [
+				"/Engine/EngineMaterials/PPM_DefaultCalibrationColor"
+			]
+		},
+		{
+			"ShaderMapHash": "CA5E52CACC8C177679D06C910BA38FFD19582423",
+			"Assets": [
+				"/Engine/EditorMaterials/PreviewShadowIndicatorMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "6B4DF1C8666102946C3942099A0BCFCD7FA4FB49",
+			"Assets": [
+				"/Game/StarterContent/Props/Materials/M_Rock"
+			]
+		},
+		{
+			"ShaderMapHash": "7349758A5D0C3164D5A33746B21622F3E2C4320E",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Water_Ocean"
+			]
+		},
+		{
+			"ShaderMapHash": "14E2AC9F3332320731D2E0D9EE52F5013D730ACB",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Tech_Hex_Tile"
+			]
+		},
+		{
+			"ShaderMapHash": "6FB890141E28BE2ABE08884F79B94E82C2281B79",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Metal_Rust"
+			]
+		},
+		{
+			"ShaderMapHash": "CB896DC9DFE5EC2CC925BBCB251363ACDD920F1F",
+			"Assets": [
+				"/Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Skins/Tier2/ShadowOps/Materials/M_TBSO_Lens"
+			]
+		},
+		{
+			"ShaderMapHash": "2C54D39D5ED682E52AA8F3491E9D34B2AE3998FE",
+			"Assets": [
+				"/Game/ParagonTwinblast/FX/Materials/Water/M_Water_Drops_Master"
+			]
+		},
+		{
+			"ShaderMapHash": "88AE6F46FD5A91E6C34495F4D47CD8F871B96D5F",
+			"Assets": [
+				"/Game/ParagonTwinblast/FX/Materials/Water/M_WaterImpact_Cylinder"
+			]
+		},
+		{
+			"ShaderMapHash": "F2BAD59CFA8965E2779AB525E3691189F8E8A41E",
+			"Assets": [
+				"/Game/StarterContent/Particles/Materials/M_radial_ramp",
+				"/Game/StarterContent/Particles/Materials/M_Radial_Gradient"
+			]
+		},
+		{
+			"ShaderMapHash": "6BB796A6A85DA28BAECFC43E33CFF855727913F2",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Wood_Floor_Walnut_Worn"
+			]
+		},
+		{
+			"ShaderMapHash": "A583E5F9F9E78C40859F062E7ECBF9E25AE03C5C",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_ColorGrid_LowSpec",
+				"/Engine/EditorMeshes/ColorCalibrator/M_ColorGrid"
+			]
+		},
+		{
+			"ShaderMapHash": "D523A4FB0B04039845A7FBDD0A48C195CB7468DC",
+			"Assets": [
+				"/Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Materials/M_UniversalEye_Shadow"
+			]
+		},
+		{
+			"ShaderMapHash": "64561948C0876D67EAAB3909D935379F92F48F46",
+			"Assets": [
+				"/Game/ParagonTwinblast/FX/Materials/Water/M_Water_Stream_Ribbon"
+			]
+		},
+		{
+			"ShaderMapHash": "A714FB0D2F2A86659BBA9E179668CB77E20BE332",
+			"Assets": [
+				"/Game/ParagonTwinblast/FX/Materials/Smoke/WispySmokeSoft/M_WispySmokeCheap"
+			]
+		},
+		{
+			"ShaderMapHash": "5EC149E00C4261B3935EB5C4E29E8695798ABBF3",
+			"Assets": [
+				"/Game/ParagonTwinblast/FX/Materials/Flares/M_NitroGlow"
+			]
+		},
+		{
+			"ShaderMapHash": "392FE981CBD67D46BE5260292D6FEDFF29019E0F",
+			"Assets": [
+				"/Game/ParagonTwinblast/FX/Materials/Trails/M_Twinblast_BulletTrail"
+			]
+		},
+		{
+			"ShaderMapHash": "E04ED1629DCFD0CED8FAD37C383A8A6887E9C211",
+			"Assets": [
+				"/Game/ParagonTwinblast/FX/Materials/Sparks/M_Spark_VelocityLerp_WorldColor"
+			]
+		},
+		{
+			"ShaderMapHash": "45E896578CA2F7DBC4ECD7B466EA79EDF87C3593",
+			"Assets": [
+				"/Game/ParagonTwinblast/FX/Materials/Sparks/M_Hotdog_Spark_VLerp_MASTER"
+			]
+		},
+		{
+			"ShaderMapHash": "F515D6CD75EF1C49CDF44DB041A8BCDED15FFC85",
+			"Assets": [
+				"/Game/ParagonTwinblast/FX/Materials/Smoke/Twinblast/M_Smoke_Offset_Particles_SubUV_LIT"
+			]
+		},
+		{
+			"ShaderMapHash": "E2D3B2D2E9CDB304ABE34A665F97B6EED9344709",
+			"Assets": [
+				"/Game/ParagonTwinblast/FX/Materials/Shells/M_Plasma_Shot_Shell"
+			]
+		},
+		{
+			"ShaderMapHash": "700E489E680374D63D4DDB3BD95F27B69AC2FB42",
+			"Assets": [
+				"/Game/ParagonTwinblast/FX/Materials/MuzzleFlashes/TwinBlast/M_TwinBlast_Muzzle"
+			]
+		},
+		{
+			"ShaderMapHash": "15DD473803E47D890B8D6A709B1A89BDA829000F",
+			"Assets": [
+				"/Game/ParagonTwinblast/FX/Materials/MuzzleFlashes/M_Twinblast_Muzzle_Flash_Ult"
+			]
+		},
+		{
+			"ShaderMapHash": "CB70BA5CCB35E910EB1A4C943AEA93C000623A11",
+			"Assets": [
+				"/Game/ParagonTwinblast/FX/Materials/MuzzleFlashes/M_Twinblast_Muzzle_Flash"
+			]
+		},
+		{
+			"ShaderMapHash": "C7D58C815F34C1510FCB07C3C6C2D5E1F42A0101",
+			"Assets": [
+				"/Game/ParagonTwinblast/FX/Materials/Explosions/Twinblast/M_Fireball_Directional_Lit_Master_2"
+			]
+		},
+		{
+			"ShaderMapHash": "8CAB49E55444B5FE6EF5C8C6482342EE43570578",
+			"Assets": [
+				"/Game/ParagonTwinblast/FX/Materials/Explosions/Twinblast/M_Fireball_Directional_Lit_Master"
+			]
+		},
+		{
+			"ShaderMapHash": "8F631A0A2D73A288749F17FBB31A745853841FF4",
+			"Assets": [
+				"/Game/ParagonTwinblast/FX/Materials/Explosions/M_TBUltFlame"
+			]
+		},
+		{
+			"ShaderMapHash": "2885B5F62DEDC7F004E36D2752645492A864D670",
+			"Assets": [
+				"/Game/ParagonTwinblast/FX/Materials/Smoke/DirectionalLit/M_Directional_Lit_DepthSmoke_Master"
+			]
+		},
+		{
+			"ShaderMapHash": "54DF547A3B3107B67CFDF4F5C0B3C6F74726A9C0",
+			"Assets": [
+				"/Game/ParagonTwinblast/FX/Materials/Hero_Specific/M_Cool_Sunglasses_Lenses"
+			]
+		},
+		{
+			"ShaderMapHash": "B75600EB6F83394A40872C9193B83020B13653B8",
+			"Assets": [
+				"/Game/ParagonTwinblast/FX/Materials/Hero_Specific/M_Cool_Sunglasses"
+			]
+		},
+		{
+			"ShaderMapHash": "629D15CECF1D8448B125231FDD96D9A761A241DB",
+			"Assets": [
+				"/Game/ParagonTwinblast/FX/Materials/Environment/Water/M_WaterRipple_Mesh_Foam"
+			]
+		},
+		{
+			"ShaderMapHash": "DEA41F4B734EFEC973EAB1C945E2400D58EB385F",
+			"Assets": [
+				"/Game/ParagonTwinblast/FX/Materials/Energy/Electricity/M_LightningSpiral"
+			]
+		},
+		{
+			"ShaderMapHash": "CCA7CAABE80BCB16EDEAC755F11EBD347F191DCB",
+			"Assets": [
+				"/Game/ParagonTwinblast/FX/Materials/Water/M_Water_Footfall"
+			]
+		},
+		{
+			"ShaderMapHash": "401D4A4685B43473979910C5DD17F21AD0677056",
+			"Assets": [
+				"/Game/ParagonTwinblast/FX/Materials/Water/M_Footfall_Ripple"
+			]
+		},
+		{
+			"ShaderMapHash": "014F473035447234C774A5DDD41DD8D1173036F5",
+			"Assets": [
+				"/Game/ParagonTwinblast/FX/Materials/Trails/M_Twinblast_BulletTrail_RandomDeath"
+			]
+		},
+		{
+			"ShaderMapHash": "26F5799F43D4C421964E8AC1B914A4A92D6D96F0",
+			"Assets": [
+				"/Game/ParagonTwinblast/FX/Materials/Sparks/M_SparksPhoto"
+			]
+		},
+		{
+			"ShaderMapHash": "582554AC706E86489E67D1F3543688EC0145CDCE",
+			"Assets": [
+				"/Game/ParagonTwinblast/FX/Materials/Hero_Specific/M_Ult_Bullet_Pyramid"
+			]
+		},
+		{
+			"ShaderMapHash": "B6483E940985B0D546B70D190AC09893A7B46E48",
+			"Assets": [
+				"/Game/Female_Mannequin/Materials/Female_Mannequin/Hair/M_Hair_master"
+			]
+		},
+		{
+			"ShaderMapHash": "E9E6C9BB8C80820E8A0EDD8DCFEE711FDDF17CF1",
+			"Assets": [
+				"/Engine/EngineSky/M_Sky_Panning_Clouds2"
+			]
+		},
+		{
+			"ShaderMapHash": "7EB80B268E411CC7FEFCB8D7153A743BD65315E5",
+			"Assets": [
+				"/Engine/EngineMaterials/AntiAliasedTextMaterialTranslucent"
+			]
+		},
+		{
+			"ShaderMapHash": "2AAA7135E6087AC778A0B63EEB5E690F49F86CD8",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultParticle"
+			]
+		},
+		{
+			"ShaderMapHash": "C1C4D238DD1B7965447AC1AA883EBE094E18F9C2",
+			"Assets": [
+				"/Engine/MapTemplates/Sky/M_Procedural_Sky_MASTER02"
+			]
+		},
+		{
+			"ShaderMapHash": "CE5D72DE311D46F68FCE2027B9A3DAF2DB389E47",
+			"Assets": [
+				"/Paper2D/OpaqueUnlitSpriteMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "E171CFA61F0313D35C414F4721E393617AAFB691",
+			"Assets": [
+				"/SpeedTreeImporter/SpeedTree9/SpeedTreeBillboardMaster"
+			]
+		},
+		{
+			"ShaderMapHash": "14CC31EF34BEE66179FCF777D126490DD5DFA5DD",
+			"Assets": [
+				"/SpeedTreeImporter/SpeedTree9/SpeedTreeMaster"
+			]
+		},
+		{
+			"ShaderMapHash": "F333813E89E5AC9B1F6F16D5FBEA362F0431C671",
+			"Assets": [
+				"/Game/ParagonTwinblast/FX/Materials/Lens/M_TwinblastNitro_CameraFX"
+			]
+		},
+		{
+			"ShaderMapHash": "E286E15BDA5ADE04268EBA19DCD291F7FCD38DB4",
+			"Assets": [
+				"/Game/ParagonTwinblast/Characters/Global/Eyes/Materials/M_TwinBlast_EyeBlend"
+			]
+		},
+		{
+			"ShaderMapHash": "F9FA175428CEED010214938F78EE68111341CDE6",
+			"Assets": [
+				"/Game/Female_Mannequin/Materials/Female_Mannequin/Body_and_Head/M_FemaleMannequin_body_Pattern_Master"
+			]
+		},
+		{
+			"ShaderMapHash": "1327BA03F661AC4B6A29930524ACF9D6861C9BA4",
+			"Assets": [
+				"/Game/ParagonTwinblast/FX/Materials/Debris/M_Explosion_RockChunks"
+			]
+		},
+		{
+			"ShaderMapHash": "648B34FBF1A6265873DAA2FDE756E9E90165B27A",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Masked"
+			]
+		},
+		{
+			"ShaderMapHash": "08AB2FB6F0B0D7F55EC432ED817F96CBDE053FE7",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Opaque"
+			]
+		},
+		{
+			"ShaderMapHash": "23B1EF696CB55868211558A2D14ECFFBB29B851A",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Translucent"
+			]
+		},
+		{
+			"ShaderMapHash": "A615265B66C7E80062FA0801A041D06A150F2F26",
+			"Assets": [
+				"/Game/DestructionSystem/Materials/M_Master_PBR"
+			]
+		},
+		{
+			"ShaderMapHash": "072315F8951F639CB2E8DEB5007C3A6AE3581ECB",
+			"Assets": [
+				"/Game/DestructionSystem/Materials/FX/MI_Smoke"
+			]
+		},
+		{
+			"ShaderMapHash": "7B9B364B6611B4174271C215F157D9F6E590BDF1",
+			"Assets": [
+				"/Game/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI"
+			]
+		},
+		{
+			"ShaderMapHash": "8EF8E96547BEA1924153A324E197F6EAA4FE87B8",
+			"Assets": [
+				"/Game/ParagonTwinblast/FX/Materials/Flares/M_Flare_Procedural_Noise_Tex_Glow"
+			]
+		},
+		{
+			"ShaderMapHash": "FBDC5A53092D3316D654D0D5876000C1E13B050E",
+			"Assets": [
+				"/Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Skins/Tier2/ShadowOps/Materials/M_TBSO_LENS_01"
+			]
+		},
+		{
+			"ShaderMapHash": "9230FB310A628F83D4108C07421D54BFEE66EAB4",
+			"Assets": [
+				"/Game/ParagonTwinblast/FX/Materials/Water/Hydro/M_Hydro_Water_Particles",
+				"/Game/ParagonTwinblast/FX/Materials/Water/Hydro/M_Hydro_Water_Particles_Body_Inst"
+			]
+		},
+		{
+			"ShaderMapHash": "8D455B83A0F4E792E4433CBB36703021E8F8831B",
+			"Assets": [
+				"/Game/ParagonTwinblast/FX/Materials/Water/M_MaskedWater_Explo"
+			]
+		},
+		{
+			"ShaderMapHash": "FF42C5BDB45D6DCF9999D8CB5A827FF708C1461C",
+			"Assets": [
+				"/Game/ParagonTwinblast/FX/Materials/Water/M_MaskedWater_Explo"
+			]
+		},
+		{
+			"ShaderMapHash": "8053AB6313BE46301F02F0BA222EE52FF234FC59",
+			"Assets": [
+				"/Game/ParagonTwinblast/FX/Materials/Smoke/DirectionalLit/M_Directional_Lit_Depth_SmokeElement_Inst"
+			]
+		},
+		{
+			"ShaderMapHash": "0C9A3B9BE5272A07A77E347F8C02A690A4CE95EE",
+			"Assets": [
+				"/Game/ParagonTwinblast/FX/Materials/Water/M_WaterMist"
+			]
+		},
+		{
+			"ShaderMapHash": "FF11FB15BAF612A3523DAD667FA5151973425F52",
+			"Assets": [
+				"/Game/ParagonTwinblast/FX/Materials/Sparks/M_hardSpark_Alpha_GPU_Random"
+			]
+		},
+		{
+			"ShaderMapHash": "08E7A7C0A64CB42892DBCD51A460577E53A0C60F",
+			"Assets": [
+				"/Game/DestructionSystem/Materials/FX/M_Sprite"
+			]
+		},
+		{
+			"ShaderMapHash": "D6D0CB6EE5CEDA43D2869EF49C68A0E79E511DA1",
+			"Assets": [
+				"/Game/ParagonTwinblast/FX/Materials/VolumeFog/M_Fog_SphericalDensity"
+			]
+		},
+		{
+			"ShaderMapHash": "D8164CB515169D08699ED571FB88063263031888",
+			"Assets": [
+				"/Game/ParagonTwinblast/FX/Materials/Sparks/M_Hotdog_Spark_VLerp_DOF_Rand_Master"
+			]
+		},
+		{
+			"ShaderMapHash": "92834C5F4AD3EEDC6666E46B0DD9A7B93FE5E1B9",
+			"Assets": [
+				"/Game/ParagonTwinblast/Characters/Global/Eyes/Materials/M_Eye_Occlusion"
+			]
+		},
+		{
+			"ShaderMapHash": "DE40F62B99C9D9AC2163E0DEACC636A70A140E30",
+			"Assets": [
+				"/Game/ParagonTwinblast/Characters/Global/Eyes/Materials/M_Eye_Occlusion"
+			]
+		},
+		{
+			"ShaderMapHash": "5C4992347B8B0343674EDFF18C34F7BF6E7E19D3",
+			"Assets": [
+				"/Game/Female_Mannequin/Materials/Clothes/M_Clothes_Regions_RMS_master"
+			]
+		},
+		{
+			"ShaderMapHash": "2FC7EF72A5BED216F2F3B7E9B2EA8FC7CE76FE24",
+			"Assets": [
+				"/Game/ParagonTwinblast/FX/Materials/Trails/M_TrailSmoke_Cine"
+			]
+		},
+		{
+			"ShaderMapHash": "29FBA8DD26CF474CB010D1A0F62F32A8FCBD541B",
+			"Assets": [
+				"/Game/ParagonTwinblast/FX/Meshes/Splines/M_Spline_Preview"
+			]
+		},
+		{
+			"ShaderMapHash": "526F9E29CA41DA767AC42428A0769F9DE8D58E82",
+			"Assets": [
+				"/Game/ParagonTwinblast/FX/Materials/Smoke/Twinblast/M_SplineThickenSmoke_Trails_Master"
+			]
+		},
+		{
+			"ShaderMapHash": "CC70DEBA77AE3E49FB4698D10F88BD0F6AF638A2",
+			"Assets": [
+				"/Game/ParagonTwinblast/FX/Materials/Smoke/Spline/M_Smoke_SplineMesh_Trail"
+			]
+		},
+		{
+			"ShaderMapHash": "B11C924E0C6AA249F881BF33A957F25F4B91294D",
+			"Assets": [
+				"/Engine/EditorMaterials/Thumbnails/SkySphereMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "3B2B19FA5414E6DAD9643AF0062E6F480FA16D8E",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Masked_OneSided"
+			]
+		},
+		{
+			"ShaderMapHash": "3A21A22B26B50FF022F4DB6451E17D307A26F2AF",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Opaque_OneSided"
+			]
+		},
+		{
+			"ShaderMapHash": "15EA0E12A81C9DC6CAB30BA74074D53708669004",
+			"Assets": [
+				"/Game/ParagonTwinblast/FX/Materials/Flares/M_Flare_Procedural_Noise_Tex_Glow_Softer_Inst",
+				"/Game/ParagonTwinblast/FX/Materials/Flares/M_Flare_Procedural_Noise_Tex_Glow_RoundFade_Inst"
+			]
+		},
+		{
+			"ShaderMapHash": "CEFD5C3B765229C19C1BE14EF0A0CC6F6B351F0C",
+			"Assets": [
+				"/Game/ParagonTwinblast/FX/Materials/Shockwaves/M_PlasmaRadial_Blur_LDR2HDR"
+			]
+		},
+		{
+			"ShaderMapHash": "7C9F7253652CB7809097300ACF6917EB9B58208A",
+			"Assets": [
+				"/Game/ParagonTwinblast/FX/Materials/Shockwaves/M_Heal_Bubble_Explode"
+			]
+		},
+		{
+			"ShaderMapHash": "4E2BA95994763D717E52B211EE2CF5DDBCBD378D",
+			"Assets": [
+				"/Game/ParagonTwinblast/FX/Materials/Shockwaves/M_BillboardRefract"
+			]
+		},
+		{
+			"ShaderMapHash": "FE5C0AA294F9D4ABC2ABF3AF992C13946B631535",
+			"Assets": [
+				"/Game/ParagonTwinblast/FX/Materials/Lens/M_LensEffectGoldEnergy"
+			]
+		},
+		{
+			"ShaderMapHash": "F9D5F07FD8C7BF35EBC09DC2340C0DE46F7D6882",
+			"Assets": [
+				"/Game/ParagonTwinblast/FX/Materials/HeatDistort/M_Shockwave_Refract"
+			]
+		},
+		{
+			"ShaderMapHash": "A396F8F8F8C972799CBF5BDDB58FF3E0B08F8B00",
+			"Assets": [
+				"/Game/ParagonTwinblast/FX/Materials/HeatDistort/M_HeatDistort_DistanceFade"
+			]
+		},
+		{
+			"ShaderMapHash": "1D2DD7FCFFC396BBC0B5673D42C449B468E524FC",
+			"Assets": [
+				"/Game/ParagonTwinblast/FX/Materials/Fire/JetFlames/M_Jets_Base_01"
+			]
+		},
+		{
+			"ShaderMapHash": "F3D2AD2699D502D8B00764D1071A49176D19BAB5",
+			"Assets": [
+				"/Game/ParagonTwinblast/FX/Materials/Water/M_WaterImpact_Strand"
+			]
+		},
+		{
+			"ShaderMapHash": "F1AA8AF64BF5E0386795C5803439B31A4D8AD7AA",
+			"Assets": [
+				"/Game/ParagonTwinblast/FX/Materials/Water/M_WaterBubbles"
+			]
+		},
+		{
+			"ShaderMapHash": "515D2D1D69B4569AC90D2D85237A363C3EC4CB11",
+			"Assets": [
+				"/Game/ParagonTwinblast/FX/Materials/Water/M_LiquidSplash_SubUV"
+			]
+		},
+		{
+			"ShaderMapHash": "3948543F09ED93FAC182557C8AB705F0B150A922",
+			"Assets": [
+				"/Game/ParagonTwinblast/FX/Materials/Debris/M_TransDebris_Crete2"
+			]
+		},
+		{
+			"ShaderMapHash": "F44DBE2505DDDD5AB430D163E8A3DA64F9DF0489",
+			"Assets": [
+				"/Game/ParagonTwinblast/FX/Materials/VolumeFog/MI_Fog_SphericalDensity_Particle"
+			]
+		},
+		{
+			"ShaderMapHash": "31FF4BF3DDD89E2B30140BF74C8A0DF4E2AFA97C",
+			"Assets": [
+				"/Game/Female_Mannequin/Materials/Clothes/MI_Clothes_Workout_Knit_Blue"
+			]
+		},
+		{
+			"ShaderMapHash": "CE40D0D096426EEB289A5D3B46938D8E37ECCA85",
+			"Assets": [
+				"/Game/ParagonTwinblast/Characters/Global/MaterialFunctions/M_DeathToAlpha"
+			]
+		},
+		{
+			"ShaderMapHash": "D03462586755D24909E125288D422AA9866A56BD",
+			"Assets": [
+				"/Game/materials/FireBall"
+			]
+		},
+		{
+			"ShaderMapHash": "9E169434F8126688F054FDEACD838B7C1A48A8D3",
+			"Assets": [
+				"/Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Skins/Tier2/SummerTime/Materials/Parent/M_TwinBlast_Summer_ULT"
+			]
+		},
+		{
+			"ShaderMapHash": "CFC98B783A83F6D92F5BDA5EB2612EA5982A321E",
+			"Assets": [
+				"/Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Skins/Tier2/SummerTime/Materials/Parent/M_TwinBlast_Summer_ULT"
+			]
+		},
+		{
+			"ShaderMapHash": "C4496D5FACD41AE790E9AE6C667872EB8C2653A8",
+			"Assets": [
+				"/Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Skins/Tier2/SummerTime/Materials/Parent/M_TwinBlast_Summer_Pistol"
+			]
+		},
+		{
+			"ShaderMapHash": "653420D4943765686F9BBAFEADF118B0A7FA7C86",
+			"Assets": [
+				"/Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Skins/Tier2/SummerTime/Materials/Parent/M_TwinBlast_Summer_Pistol"
+			]
+		},
+		{
+			"ShaderMapHash": "0A4DF3F0EA84D35A7F3D8B047ED589666960C8B3",
+			"Assets": [
+				"/Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Skins/Tier2/SummerTime/Materials/Parent/M_TwinBlast_SummerTime_Shorts"
+			]
+		},
+		{
+			"ShaderMapHash": "F44E7AFA5DAFD53592297DBAB02BB0D7F6D587F8",
+			"Assets": [
+				"/Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Skins/Tier2/SummerTime/Materials/Parent/M_TwinBlast_SummerTime_Shorts"
+			]
+		},
+		{
+			"ShaderMapHash": "DBF06087527E1F4AD4B5EE365B6E6067E1FC879E",
+			"Assets": [
+				"/Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Skins/Tier2/SummerTime/Materials/Parent/M_TwinBlast_SummerTime_Shirt"
+			]
+		},
+		{
+			"ShaderMapHash": "F59F7DC64D193218702FDB1FDA5F71C486BB54E2",
+			"Assets": [
+				"/Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Skins/Tier2/SummerTime/Materials/Parent/M_TwinBlast_SummerTime_Shirt"
+			]
+		},
+		{
+			"ShaderMapHash": "13BAFB449B65DB0C6ABD7BF4211223540F77EC53",
+			"Assets": [
+				"/Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Skins/Tier2/SummerTime/Materials/Parent/M_TwinBlast_SummerTime_Sandals"
+			]
+		},
+		{
+			"ShaderMapHash": "B4A29225F45C0DA0005DF0FA50B384C838282780",
+			"Assets": [
+				"/Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Skins/Tier2/SummerTime/Materials/Parent/M_TwinBlast_SummerTime_Sandals"
+			]
+		},
+		{
+			"ShaderMapHash": "F6291694697D9A95E1F75EB2C29E1A903AF429C5",
+			"Assets": [
+				"/Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Skins/Tier2/SummerTime/Materials/Parent/M_TwinBlast_SummerTime_Necklace"
+			]
+		},
+		{
+			"ShaderMapHash": "15D23C1702D393C4D3DF7499ACF17FD40E2218CE",
+			"Assets": [
+				"/Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Skins/Tier2/SummerTime/Materials/Parent/M_TwinBlast_SummerTime_Necklace"
+			]
+		},
+		{
+			"ShaderMapHash": "015F7AFD096EE5C7F08318F9A5D4BF49F1878638",
+			"Assets": [
+				"/Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Skins/Tier2/SummerTime/Materials/Parent/M_TwinBlast_SummerTime_Necklace"
+			]
+		},
+		{
+			"ShaderMapHash": "67F7A671B236EF10A8C53FCBA7DAF5F7C39F9A99",
+			"Assets": [
+				"/Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Skins/Tier2/SummerTime/Materials/Parent/M_TwinBlast_SummerTime_Body"
+			]
+		},
+		{
+			"ShaderMapHash": "1881A250AA50E7831591C6EAD0EB529CFCB6817C",
+			"Assets": [
+				"/Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Skins/Tier2/SummerTime/Materials/Parent/M_TwinBlast_SummerTime_Body"
+			]
+		},
+		{
+			"ShaderMapHash": "56868A0CDECD53969D730EBD963BC7CA9DD94339",
+			"Assets": [
+				"/Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Skins/Tier2/SummerTime/Materials/Parent/M_TwinBlast_SummerTime_Arms"
+			]
+		},
+		{
+			"ShaderMapHash": "577F4F9A491EB81511C16BFCA6766B9505BF1003",
+			"Assets": [
+				"/Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Skins/Tier2/SummerTime/Materials/Parent/M_TwinBlast_SummerTime_Arms"
+			]
+		},
+		{
+			"ShaderMapHash": "C40C58D57F3181EB1240D3F052B414C27E289E5E",
+			"Assets": [
+				"/Game/ParagonTwinblast/Characters/Global/Mouth/Materials/M_Mouth_Master"
+			]
+		},
+		{
+			"ShaderMapHash": "30C602AB21163F8194AAC928237B347B2C149F30",
+			"Assets": [
+				"/Game/ParagonTwinblast/Characters/Global/Mouth/Materials/M_Mouth_Master"
+			]
+		},
+		{
+			"ShaderMapHash": "5ECA9F774513FEE37E87320431A1ADA7DBFFEBD7",
+			"Assets": [
+				"/Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Skins/Tier2/ShadowOps/Materials/M_TBSO_Weapons"
+			]
+		},
+		{
+			"ShaderMapHash": "62B5B950A49ACD6C592B2F40C6BBFE8C019DD134",
+			"Assets": [
+				"/Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Skins/Tier2/ShadowOps/Materials/M_TBSO_Weapons"
+			]
+		},
+		{
+			"ShaderMapHash": "B7679D62AD0AC33342B3438C4F36BE20BD7C7D0B",
+			"Assets": [
+				"/Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Skins/Tier2/ShadowOps/Materials/M_TBSO_Weapons"
+			]
+		},
+		{
+			"ShaderMapHash": "788A45B1D348DCA7321331E6E229084548D06538",
+			"Assets": [
+				"/Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Skins/Tier2/ShadowOps/Materials/M_TBSO_TorsoInner"
+			]
+		},
+		{
+			"ShaderMapHash": "7A5D3DE6D23341AF541E062FC284B54D8329B6A1",
+			"Assets": [
+				"/Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Skins/Tier2/ShadowOps/Materials/M_TBSO_TorsoInner"
+			]
+		},
+		{
+			"ShaderMapHash": "B346655C26F6BE2A318B33DA88332AAE173ADBD0",
+			"Assets": [
+				"/Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Skins/Tier2/ShadowOps/Materials/M_TBSO_TorsoHead"
+			]
+		},
+		{
+			"ShaderMapHash": "E3C254B031DD4BA194B82A9CA646BF4B01CA2A5F",
+			"Assets": [
+				"/Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Skins/Tier2/ShadowOps/Materials/M_TBSO_TorsoHead"
+			]
+		},
+		{
+			"ShaderMapHash": "8087D285B5EDB445E5FBBCE180689D8B8C2BAE75",
+			"Assets": [
+				"/Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Skins/Tier2/ShadowOps/Materials/M_TBSO_TorsoHead"
+			]
+		},
+		{
+			"ShaderMapHash": "78699CAFBBC8FC43B7F4A959B7F66415FECF2DAB",
+			"Assets": [
+				"/Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Skins/Tier2/ShadowOps/Materials/M_TBSO_Pants"
+			]
+		},
+		{
+			"ShaderMapHash": "4355F780FF9609CA36B28601354918DA72821D4E",
+			"Assets": [
+				"/Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Skins/Tier2/ShadowOps/Materials/M_TBSO_Pants"
+			]
+		},
+		{
+			"ShaderMapHash": "960F56DD7BFDAC05899B4CC6FFB46624BF991B99",
+			"Assets": [
+				"/Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Skins/Tier2/ShadowOps/Materials/M_TBSO_Grenade"
+			]
+		},
+		{
+			"ShaderMapHash": "16290F1B9CC7B16F4B6DD4042DB29FB19F81713B",
+			"Assets": [
+				"/Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Skins/Tier2/ShadowOps/Materials/M_TBSO_Grenade"
+			]
+		},
+		{
+			"ShaderMapHash": "593E30E715F59D3FCF619FD562AA3579875542D7",
+			"Assets": [
+				"/Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Skins/Tier2/ShadowOps/Materials/M_TBSO_Grenade"
+			]
+		},
+		{
+			"ShaderMapHash": "AEE39FA01B49559670AEA35DF61F9DD7C8012FC8",
+			"Assets": [
+				"/Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Skins/Tier2/ShadowOps/Materials/M_TBSO_Boots"
+			]
+		},
+		{
+			"ShaderMapHash": "09361E10FA510F875D8182470A438714C243FAA3",
+			"Assets": [
+				"/Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Skins/Tier2/ShadowOps/Materials/M_TBSO_Boots"
+			]
+		},
+		{
+			"ShaderMapHash": "AFAE1F745F481E5131D92F5D2D17E5DD27D754C8",
+			"Assets": [
+				"/Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Skins/Tier2/ShadowOps/Materials/M_TBSO_Arms"
+			]
+		},
+		{
+			"ShaderMapHash": "D94BC4C91D678FC4D157DEB52F54A3BA4DDA801F",
+			"Assets": [
+				"/Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Skins/Tier2/ShadowOps/Materials/M_TBSO_Arms"
+			]
+		},
+		{
+			"ShaderMapHash": "7E0784DEE90307F893C6E66A4C18D88676022E4B",
+			"Assets": [
+				"/Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Skins/Tier2/ShadowOps/Materials/M_TBSO_Arms"
+			]
+		},
+		{
+			"ShaderMapHash": "982612447745CA2571CFB46F35E7A96892CFD690",
+			"Assets": [
+				"/Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Skins/Tier2/ShadowOps/Materials/M_TBSO_Acc"
+			]
+		},
+		{
+			"ShaderMapHash": "416403279664658F33A9FA421363400DAC90411F",
+			"Assets": [
+				"/Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Skins/Tier2/ShadowOps/Materials/M_TBSO_Acc"
+			]
+		},
+		{
+			"ShaderMapHash": "780E734A8E11031EE64947258573925146C12D20",
+			"Assets": [
+				"/Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Skins/Tier2/ShadowOps/Materials/M_TBSO_Acc"
+			]
+		},
+		{
+			"ShaderMapHash": "B5FA33FBC2858EE89B19F0DB6C4C3D1E932A72B5",
+			"Assets": [
+				"/Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Skins/Tier2/ActionMovie/Materials/M_TwinBlast_ActionMovie_Pistol"
+			]
+		},
+		{
+			"ShaderMapHash": "857A2B96DF9936F9E4D28C6F6CD59C0A4C7AC3AE",
+			"Assets": [
+				"/Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Skins/Tier2/ActionMovie/Materials/M_TwinBlast_ActionMovie_Pistol"
+			]
+		},
+		{
+			"ShaderMapHash": "D8E2683859AA603D66E00B9EA6E706C8CEA4733B",
+			"Assets": [
+				"/Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Skins/Tier2/ActionMovie/Materials/M_TwinBlast_ActionMovie_Pistol"
+			]
+		},
+		{
+			"ShaderMapHash": "7F5FDDAB4FDF6B9E06574D329D277E4789B143AF",
+			"Assets": [
+				"/Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Skins/Tier2/ActionMovie/Materials/M_TwinBlast_ActionMovie_LowerBody"
+			]
+		},
+		{
+			"ShaderMapHash": "1AA9A63451C9DC8C5782159C5B215B468AC23A6A",
+			"Assets": [
+				"/Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Skins/Tier2/ActionMovie/Materials/M_TwinBlast_ActionMovie_LowerBody"
+			]
+		},
+		{
+			"ShaderMapHash": "0D03F753FDA8D2031444BF64C0496FE9FB0A4803",
+			"Assets": [
+				"/Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Skins/Tier2/ActionMovie/Materials/M_TwinBlast_ActionMovie_Head_Skin"
+			]
+		},
+		{
+			"ShaderMapHash": "CE8804D91719C6028E5EBC3D933092B4F293C6F0",
+			"Assets": [
+				"/Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Skins/Tier2/ActionMovie/Materials/M_TwinBlast_ActionMovie_Head_Skin"
+			]
+		},
+		{
+			"ShaderMapHash": "2DB377C2A84F05B236F4802050762FFF73B5BC77",
+			"Assets": [
+				"/Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Skins/Tier2/ActionMovie/Materials/M_TwinBlast_ActionMovie_Head_Shirt"
+			]
+		},
+		{
+			"ShaderMapHash": "CF06C1D294A91929C6277B2F2180E71513BFAA87",
+			"Assets": [
+				"/Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Skins/Tier2/ActionMovie/Materials/M_TwinBlast_ActionMovie_Head_Shirt"
+			]
+		},
+		{
+			"ShaderMapHash": "E8303D8A5A1050247A4E844F84B55F375DC34255",
+			"Assets": [
+				"/Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Skins/Tier2/ActionMovie/Materials/M_TwinBlast_ActionMovie_Coat_Gold"
+			]
+		},
+		{
+			"ShaderMapHash": "948A360785EDCF2ACFB1F8046133D507EB4B2206",
+			"Assets": [
+				"/Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Skins/Tier2/ActionMovie/Materials/M_TwinBlast_ActionMovie_Coat_Gold"
+			]
+		},
+		{
+			"ShaderMapHash": "122273B05472CE72458163D447B2AD40EFD6040E",
+			"Assets": [
+				"/Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Skins/Tier2/ActionMovie/Materials/M_TwinBlast_ActionMovie_Coat"
+			]
+		},
+		{
+			"ShaderMapHash": "3F0AF294B95FB83A36F12DDB93EE165B57F8CCAD",
+			"Assets": [
+				"/Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Skins/Tier2/ActionMovie/Materials/M_TwinBlast_ActionMovie_Coat"
+			]
+		},
+		{
+			"ShaderMapHash": "395C1CF34624CE66D5DC08F9AA4FDD9B94E08F34",
+			"Assets": [
+				"/Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Skins/Tier2/ActionMovie/Materials/M_TwinBlast_ActionMovie_Arms"
+			]
+		},
+		{
+			"ShaderMapHash": "CF1F17B367BFC49AB8B7E470DE78F539F32567B5",
+			"Assets": [
+				"/Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Skins/Tier2/ActionMovie/Materials/M_TwinBlast_ActionMovie_Arms"
+			]
+		},
+		{
+			"ShaderMapHash": "643690797B7D796868FB21B8FC0FBA2F518C2676",
+			"Assets": [
+				"/Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Skins/Tier1/CS_Twinblast_Electro/M_TB_Pisto_Electrol"
+			]
+		},
+		{
+			"ShaderMapHash": "5892750611DC67DA0CE5D55EDADFC95C08DC035D",
+			"Assets": [
+				"/Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Skins/Tier1/CS_Twinblast_Electro/M_TB_Pisto_Electrol"
+			]
+		},
+		{
+			"ShaderMapHash": "310583E79D81EA8AF95939E8096383EA3F867798",
+			"Assets": [
+				"/Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Skins/Tier1/CS_Twinblast_Electro/M_TB_Pisto_Electrol"
+			]
+		},
+		{
+			"ShaderMapHash": "1733C104DC53C30883F7A1B5E6F68A3D0FDBE33C",
+			"Assets": [
+				"/Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Skins/Tier1/CS_Twinblast_Electro/M_TB_LowBody_Electro"
+			]
+		},
+		{
+			"ShaderMapHash": "4D1481648653884CD72ED688729DF2E94EBDD6EC",
+			"Assets": [
+				"/Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Skins/Tier1/CS_Twinblast_Electro/M_TB_LowBody_Electro"
+			]
+		},
+		{
+			"ShaderMapHash": "00676688B5557FF70F1866A1F1D98F71328726E6",
+			"Assets": [
+				"/Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Skins/Tier1/CS_Twinblast_Electro/M_TB_HeadSh_Electro"
+			]
+		},
+		{
+			"ShaderMapHash": "4F8DA294F6AD0245C08E3F91816502E3946F3F7D",
+			"Assets": [
+				"/Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Skins/Tier1/CS_Twinblast_Electro/M_TB_HeadSh_Electro"
+			]
+		},
+		{
+			"ShaderMapHash": "9626B9A9D834A01BCCE426C92A6E7636BC7009EB",
+			"Assets": [
+				"/Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Skins/Tier1/CS_Twinblast_Electro/M_TB_Coat_Electro"
+			]
+		},
+		{
+			"ShaderMapHash": "3B58BCC77EEAB5FB5E9CA5EBBED2498C3117563A",
+			"Assets": [
+				"/Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Skins/Tier1/CS_Twinblast_Electro/M_TB_Coat_Electro"
+			]
+		},
+		{
+			"ShaderMapHash": "709D8D58949AD6CBBB0DC4E3254DACC080334387",
+			"Assets": [
+				"/Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Skins/Tier1/CS_Twinblast_Electro/M_TB_Arms_Electro"
+			]
+		},
+		{
+			"ShaderMapHash": "2F28E76D6178A7A082BCA9895877A24E89251F74",
+			"Assets": [
+				"/Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Skins/Tier1/CS_Twinblast_Electro/M_TB_Arms_Electro"
+			]
+		},
+		{
+			"ShaderMapHash": "4E8C4A117083648AEE22DCA24BE2FB2EEB7956A6",
+			"Assets": [
+				"/Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Skins/Tier1/CS_Twinblast_Apocalyptic/M_TB_Pistol"
+			]
+		},
+		{
+			"ShaderMapHash": "0AC04392B0596DF40CB042319816B6E725A83193",
+			"Assets": [
+				"/Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Skins/Tier1/CS_Twinblast_Apocalyptic/M_TB_Pistol"
+			]
+		},
+		{
+			"ShaderMapHash": "4BEAB39E44D8B4EE6DCBD18E95A02B35A80ECB44",
+			"Assets": [
+				"/Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Skins/Tier1/CS_Twinblast_Apocalyptic/M_TB_LowBod_Apoc"
+			]
+		},
+		{
+			"ShaderMapHash": "027598C82B842780804C50201E3C8C8C97926BF8",
+			"Assets": [
+				"/Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Skins/Tier1/CS_Twinblast_Apocalyptic/M_TB_LowBod_Apoc"
+			]
+		},
+		{
+			"ShaderMapHash": "5E63F0039FEC5733E5024A6172434F864CC34AFF",
+			"Assets": [
+				"/Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Skins/Tier1/CS_Twinblast_Apocalyptic/M_TB_Head_ShApoc"
+			]
+		},
+		{
+			"ShaderMapHash": "CA90570B3AC43B16114F19C64885A40C49443441",
+			"Assets": [
+				"/Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Skins/Tier1/CS_Twinblast_Apocalyptic/M_TB_Head_ShApoc"
+			]
+		},
+		{
+			"ShaderMapHash": "27D0A157B0141A60273DB0F8B929A29CBF44839B",
+			"Assets": [
+				"/Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Skins/Tier1/CS_Twinblast_Apocalyptic/M_TB_Coat_Apoc"
+			]
+		},
+		{
+			"ShaderMapHash": "05BC45C6DADDC38D3F50CE2F8844F07DCFF1E37A",
+			"Assets": [
+				"/Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Skins/Tier1/CS_Twinblast_Apocalyptic/M_TB_Coat_Apoc"
+			]
+		},
+		{
+			"ShaderMapHash": "72E85EDECD56BA9AEB74D928CFA44C35DA7CE3C4",
+			"Assets": [
+				"/Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Skins/Tier1/CS_Twinblast_Apocalyptic/M_TB_Arm_Apoc"
+			]
+		},
+		{
+			"ShaderMapHash": "D361B4BC7302D1F2AC5D66239F8A1F68B0F7A1E9",
+			"Assets": [
+				"/Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Skins/Tier1/CS_Twinblast_Apocalyptic/M_TB_Arm_Apoc"
+			]
+		},
+		{
+			"ShaderMapHash": "E953197224024D62E9C0DD15AEFB28E8A3446D9D",
+			"Assets": [
+				"/Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Skins/Tier1/CS_Halloween/M_TwinBlast_LowerBody"
+			]
+		},
+		{
+			"ShaderMapHash": "4C473005D85A16AB85836011044738E81F6ECA95",
+			"Assets": [
+				"/Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Skins/Tier1/CS_Halloween/M_TwinBlast_LowerBody"
+			]
+		},
+		{
+			"ShaderMapHash": "9230593B4A5D226E7A2D2DBD431F2A30BD3CD461",
+			"Assets": [
+				"/Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Skins/Tier1/CS_Halloween/M_TwinBlast_Head_HallowPaint"
+			]
+		},
+		{
+			"ShaderMapHash": "A85AFE12F63C3F41020A0813957511006BF7278B",
+			"Assets": [
+				"/Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Skins/Tier1/CS_Halloween/M_TwinBlast_Head_HallowPaint"
+			]
+		},
+		{
+			"ShaderMapHash": "A4FDE1D5F9AEB18BF2FAD74CD9B5AB9607DF1AE3",
+			"Assets": [
+				"/Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Skins/Tier1/CS_Halloween/M_TwinBlast_Coat"
+			]
+		},
+		{
+			"ShaderMapHash": "0C3D9F138F77DE88BB49CE345E8CE881B37E483D",
+			"Assets": [
+				"/Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Skins/Tier1/CS_Halloween/M_TwinBlast_Coat"
+			]
+		},
+		{
+			"ShaderMapHash": "95734D88F668DD94D4C3780495AE1BC971738156",
+			"Assets": [
+				"/Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Skins/Tier1/CS_Halloween/M_TwinBlast_Arms"
+			]
+		},
+		{
+			"ShaderMapHash": "01AB82CAD55300EDBA592F34A12175EBD3E1B077",
+			"Assets": [
+				"/Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Skins/Tier1/CS_Halloween/M_TwinBlast_Arms"
+			]
+		},
+		{
+			"ShaderMapHash": "1DE2D29BDEC63DC56204EF2DAB51ACDE74C08213",
+			"Assets": [
+				"/Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Materials/M_TwinBlast_Pistol"
+			]
+		},
+		{
+			"ShaderMapHash": "216F5631E1347CBC893B8E18B791D7709B02D80D",
+			"Assets": [
+				"/Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Materials/M_TwinBlast_Pistol"
+			]
+		},
+		{
+			"ShaderMapHash": "6E08EE88751E7936C815F1AC7378FB523760BAC6",
+			"Assets": [
+				"/Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Materials/M_TwinBlast_Pistol"
+			]
+		},
+		{
+			"ShaderMapHash": "00C35B045677AFF06E2B159CEE75F4044BF26853",
+			"Assets": [
+				"/Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Materials/M_TwinBlast_LowerBody"
+			]
+		},
+		{
+			"ShaderMapHash": "5B2F07B7EE709FBDE6AB43183631928DD30B7350",
+			"Assets": [
+				"/Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Materials/M_TwinBlast_LowerBody"
+			]
+		},
+		{
+			"ShaderMapHash": "53CA13B1F55AFB40FE327D8AC03B583DAC7A84C7",
+			"Assets": [
+				"/Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Materials/M_TwinBlast_Head_Shirt"
+			]
+		},
+		{
+			"ShaderMapHash": "23D53D63C054AD7840D84EFC50E2E96563C3B501",
+			"Assets": [
+				"/Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Materials/M_TwinBlast_Head_Shirt"
+			]
+		},
+		{
+			"ShaderMapHash": "F127CAC12CA5FE54B7069C37C912DB304DC072AC",
+			"Assets": [
+				"/Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Materials/M_TwinBlast_Coat"
+			]
+		},
+		{
+			"ShaderMapHash": "611C17C13056FC43204F1A9E69EA460A361FC065",
+			"Assets": [
+				"/Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Materials/M_TwinBlast_Coat"
+			]
+		},
+		{
+			"ShaderMapHash": "61497AA40BDCF802FD9F48642DE7CE3B7BA55A9E",
+			"Assets": [
+				"/Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Materials/M_TwinBlast_Arms"
+			]
+		},
+		{
+			"ShaderMapHash": "3014CA4ABA9B33194B437F2CF407046660DB7203",
+			"Assets": [
+				"/Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Materials/M_TwinBlast_Arms"
+			]
+		},
+		{
+			"ShaderMapHash": "38DAEC8976646689782794C7C288B9EBD45F7F14",
+			"Assets": [
+				"/Game/ParagonTwinblast/Characters/Global/Hair/Materials/M_HairSheet_Master2",
+				"/Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Skins/Tier2/ActionMovie/Materials/MI_TwinBlast_ActionMovie_Hair",
+				"/Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Materials/M_HairSheet_Master2_Inst",
+				"/Game/ParagonTwinblast/Characters/Global/Hair/Textures/M_Hair2_Inst",
+				"/Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Materials/M_HairSheet_Master_Inst_EyeLash"
+			]
+		},
+		{
+			"ShaderMapHash": "F2DE21A06C915F82D17F5A8E8C30AC19B3D09101",
+			"Assets": [
+				"/Game/ParagonTwinblast/Characters/Global/Hair/Materials/M_HairSheet_Master2",
+				"/Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Skins/Tier2/ActionMovie/Materials/MI_TwinBlast_ActionMovie_Hair",
+				"/Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Materials/M_HairSheet_Master2_Inst",
+				"/Game/ParagonTwinblast/Characters/Global/Hair/Textures/M_Hair2_Inst",
+				"/Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Materials/M_HairSheet_Master_Inst_EyeLash"
+			]
+		},
+		{
+			"ShaderMapHash": "EBF83C7D9CC65BA765F7867D83D919BAFCF5EC78",
+			"Assets": [
+				"/Game/ParagonTwinblast/Characters/Global/Eyes/Materials/M_TearLine"
+			]
+		},
+		{
+			"ShaderMapHash": "CBC16D984ED8CE394BC965411E9B648421C1BFE9",
+			"Assets": [
+				"/Game/ParagonTwinblast/Characters/Global/Eyes/Materials/M_TearLine"
+			]
+		},
+		{
+			"ShaderMapHash": "495C0C2CD1E57B4E77F2CBC69006E094CEEB6D7E",
+			"Assets": [
+				"/Game/ParagonTwinblast/Characters/Global/Eyes/Materials/M_TearDuct_2"
+			]
+		},
+		{
+			"ShaderMapHash": "9D3AC01551D9924438023CC3F3FEDDDE148CC1C9",
+			"Assets": [
+				"/Game/ParagonTwinblast/Characters/Global/Eyes/Materials/M_TearDuct_2"
+			]
+		},
+		{
+			"ShaderMapHash": "2630707C27D582BD39AB749C625A72F374F63935",
+			"Assets": [
+				"/Game/ParagonTwinblast/Characters/Global/Eyes/Materials/M_EyeRefractive_Glowing"
+			]
+		},
+		{
+			"ShaderMapHash": "0B142CD89E681700039B90FE122F7FB8F6B095D8",
+			"Assets": [
+				"/Game/ParagonTwinblast/Characters/Global/Eyes/Materials/M_EyeRefractive_Glowing"
+			]
+		},
+		{
+			"ShaderMapHash": "7370772B1B33A3DC3FEF42D41C8746DF39998DBA",
+			"Assets": [
+				"/Game/ParagonTwinblast/Characters/Global/Eyes/Materials/M_EyeRefractive"
+			]
+		},
+		{
+			"ShaderMapHash": "EA42B5846E78F314EAE043F6372EF9850BF43D1A",
+			"Assets": [
+				"/Game/ParagonTwinblast/Characters/Global/Eyes/Materials/M_EyeRefractive"
+			]
+		},
+		{
+			"ShaderMapHash": "F5A5B3326084E87B1E1C64E872EB6129456EB0C2",
+			"Assets": [
+				"/Game/ParagonTwinblast/Characters/Global/Eyelash/M_EyelashMaster"
+			]
+		},
+		{
+			"ShaderMapHash": "353290EA57830061EE819420BD95553463334D63",
+			"Assets": [
+				"/Game/ParagonTwinblast/Characters/Global/Eyelash/M_EyelashMaster"
+			]
+		},
+		{
+			"ShaderMapHash": "E5960EE302E27997A2B42776AC8B7362AEFBA582",
+			"Assets": [
+				"/Game/DestructionSystem/Materials/FX/M_VA_Master"
+			]
+		},
+		{
+			"ShaderMapHash": "824210260CEDC324CAA7999655D71D7614D04E8B",
+			"Assets": [
+				"/Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Skins/Tier2/SummerTime/Materials/Parent/M_Summer_Hair"
+			]
+		},
+		{
+			"ShaderMapHash": "B6B958AED9CE3122D1C149DA6938A43C8D551018",
+			"Assets": [
+				"/Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Skins/Tier2/SummerTime/Materials/Parent/M_Summer_Hair"
+			]
+		},
+		{
+			"ShaderMapHash": "9CE2DEA143A9C1EB500EC5AAB661CD842B1BB7C5",
+			"Assets": [
+				"/Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Skins/Tier2/ActionMovie/Materials/MI_TwinBlast_ActionMovie_Eyebrow",
+				"/Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Materials/MI_TwinBlast_Hair_Bust_Eyebrow"
+			]
+		},
+		{
+			"ShaderMapHash": "925A6FECA76133CB047C2D19D6491FCAC578EA99",
+			"Assets": [
+				"/Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Skins/Tier2/ActionMovie/Materials/MI_TwinBlast_ActionMovie_Eyebrow",
+				"/Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Materials/MI_TwinBlast_Hair_Bust_Eyebrow"
+			]
+		},
+		{
+			"ShaderMapHash": "F7320558CE9DC41A98DA5650B6417B4547F658A0",
+			"Assets": [
+				"/Engine/EditorMaterials/Cloth/CameraLitDoubleSided"
+			]
+		},
+		{
+			"ShaderMapHash": "E5E25FD9BFA4EF36C6336C3531AE219A52056ADB",
+			"Assets": [
+				"/Engine/EditorMaterials/WidgetVertexColorMaterial"
+			]
+		}
+	]
+}

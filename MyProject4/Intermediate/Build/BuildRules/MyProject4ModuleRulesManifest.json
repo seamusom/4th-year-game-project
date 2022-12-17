@@ -1,0 +1,11 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\Seamu\\Documents\\Unreal Projects\\MyProject4\\Plugins\\EnhancedInput\\Source\\EnhancedInput\\EnhancedInput.Build.cs",
+		"C:\\Users\\Seamu\\Documents\\Unreal Projects\\MyProject4\\Plugins\\EnhancedInput\\Source\\InputBlueprintNodes\\InputBlueprintNodes.Build.cs",
+		"C:\\Users\\Seamu\\Documents\\Unreal Projects\\MyProject4\\Plugins\\EnhancedInput\\Source\\InputEditor\\InputEditor.Build.cs",
+		"C:\\Users\\Seamu\\Documents\\Unreal Projects\\MyProject4\\Plugins\\FPSCore\\Source\\FPSCore\\FPSCore.Build.cs",
+		"C:\\Users\\Seamu\\Documents\\Unreal Projects\\MyProject4\\Intermediate\\Source\\MyProject4.Build.cs",
+		"C:\\Users\\Seamu\\Documents\\Unreal Projects\\MyProject4\\Intermediate\\Source\\MyProject4.Target.cs"
+	],
+	"EngineVersion": "5.0.3"
+}

@@ -1,0 +1,6 @@
+{
+	"OutputFiles": [
+		"Module.FPSCore.cpp.o",
+		"Module.FPSCore.gen.cpp.o"
+	]
+}

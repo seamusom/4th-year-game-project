@@ -1,0 +1,13 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "c:\\users\\seamu\\documents\\unreal projects\\myproject4\\intermediate\\source\\myproject4.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\seamu\\documents\\unreal projects\\myproject4\\intermediate\\build\\win64\\myproject4\\development\\core\\sharedpch.core.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\users\\seamu\\documents\\unreal projects\\myproject4\\intermediate\\build\\win64\\unrealgame\\development\\myproject4\\definitions.myproject4.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

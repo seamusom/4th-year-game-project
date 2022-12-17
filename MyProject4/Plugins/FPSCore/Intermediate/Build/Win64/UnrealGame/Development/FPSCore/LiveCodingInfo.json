@@ -1,0 +1,35 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.FPSCore.cpp.obj": [
+			"AmmoPickup.cpp.obj",
+			"HealthComponent.cpp.obj",
+			"InteractionComponent.cpp.obj",
+			"InventoryComponent.cpp.obj",
+			"FPSCharacter.cpp.obj",
+			"FPSCharacterController.cpp.obj",
+			"FPSCore.cpp.obj",
+			"InteractedActor.cpp.obj",
+			"InteractInterface.cpp.obj",
+			"InteractionActor.cpp.obj",
+			"InteractionBase.cpp.obj",
+			"WeaponBase.cpp.obj",
+			"WeaponPickup.cpp.obj"
+		],
+		"Module.FPSCore.gen.cpp.obj": [
+			"AmmoPickup.gen.cpp.obj",
+			"FPSCharacter.gen.cpp.obj",
+			"FPSCharacterController.gen.cpp.obj",
+			"FPSCore.init.gen.cpp.obj",
+			"HealthComponent.gen.cpp.obj",
+			"InteractedActor.gen.cpp.obj",
+			"InteractInterface.gen.cpp.obj",
+			"InteractionActor.gen.cpp.obj",
+			"InteractionBase.gen.cpp.obj",
+			"InteractionComponent.gen.cpp.obj",
+			"InventoryComponent.gen.cpp.obj",
+			"WeaponBase.gen.cpp.obj",
+			"WeaponPickup.gen.cpp.obj"
+		]
+	}
+}
