@@ -1,0 +1,50 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "5.0",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "MyProject4",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "ModelingToolsEditorMode",
+			"Enabled": true,
+			"TargetAllowList": [
+				"Editor"
+			]
+		},
+		{
+			"Name": "FPSCore",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/1e2dd9aadb6f46db9a42a201177d4cdd"
+		},
+		{
+			"Name": "FMODStudio",
+			"Enabled": false
+		},
+		{
+			"Name": "EnhancedInput",
+			"Enabled": true
+		},
+		{
+			"Name": "SenseSystem",
+			"Enabled": false,
+			"MarketplaceURL": "com.epicgames.launcher: //ue/marketplace/content/28a0c4ba00bf4eee8c17e52b7b2c8d52"
+		},
+		{
+			"Name": "BlendImporter",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/348ff3dbb80f491cad0d329753529b5e"
+		},
+		{
+			"Name": "SMSystem",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/916643d0c665469594233cb0487e6d3d"
+		}
+	]
+}
